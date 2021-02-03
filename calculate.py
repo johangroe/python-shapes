@@ -847,7 +847,7 @@ def berechnung():
         #print(inkreisradius)
         
         umkreisradius = a_output / (2 * math.sin(math.radians(al_output)))
-        print(umkreisradius)
+        #print(umkreisradius)
 
     if methode == None:
         pass
