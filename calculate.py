@@ -1131,7 +1131,7 @@ app = tk.Tk(className = " DREIECKS - BERECHNUNGEN :-)")
 
 
 
-tk.Label(app, text = "Genau 3 Daten eingeben (Dezimalst. ausgenommen),").grid(row = 0, column = 2, sticky = "w")
+tk.Label(app, text = "Genau 3 Daten eingeben und Stellengenauigkeit festlegen,").grid(row = 0, column = 2, sticky = "w")
 
 tk.Label(app, text = "Kommazahlen mit Punkt statt Komma schreiben!").grid(row = 1, column = 2, sticky = "w")
 
